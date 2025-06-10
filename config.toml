@@ -1,0 +1,13 @@
+title = "Siyadumisa Trading"
+baseURL = "https://your-azure-static-webapp-url/"
+theme = "PaperMod"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[params]
+  description = "Engineering Solutions that Drive Progress"
+  author = "Siyadumisa Trading"
+  showReadingTime = false
+  defaultTheme = "auto"
+  themeColor = "#243c5a" # deep blue inspired by the PDF
+  primaryColor = "#d49f2f" # gold-like accent from the logo
